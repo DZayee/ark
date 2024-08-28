@@ -1,4 +1,4 @@
-# Ark Server
+# Ark Server ...
 The Ark Server is a Go implementation of an Ark Service Provider (ASP). An ASP it's an always-on server that provides bitcoin liquidity in the Ark layer-two protocol. It supports Bitcoin and Liquid (with more experimantal features using covenants).
 
 **ALPHA STAGE SOFTWARE: USE AT YOUR OWN RISK!**
